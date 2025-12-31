@@ -1,7 +1,7 @@
 # ethereum toolkit
 This MCP server provides access to a subset of the teckel web3 Ethereum JSON-RPC services—namely those that require read only access to the blockchain (Mainnet and Sepolia).
 
-The main purpose of the ethereum toolkit is to give LLM/AI/Agents real-time access to Ethereum blockchain basic information. Once connected to an LLM via your MCP-client-of-choice, the LLM can use the suite of tools in the toolbox to provide answers to prompts such as:
+The main purpose of the ethereum toolkit is to give LLM/AI/Agents real-time access to Ethereum blockchain basic information. Once connected to an LLM via your MCP-client-of-choice, the LLM can use the suite of tools in the toolkit to provide answers to prompts such as:
 
 _“What is the current Ethereum price in USD on the mainnet and the sepolia testnet?”_
 
