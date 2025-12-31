@@ -13,17 +13,19 @@ _“What transactions have been processed in the latest block on the mainnet and
 
 ## How to Use the teckel Toolkits
 
-### First generate an API key using the teckel App.
+### First download and install the teckel App.
+[<img width="120" height="40" alt="Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917" src="https://github.com/user-attachments/assets/ecbe6c7a-02c9-4212-b2ab-58dd90c91bca" />](https://apps.apple.com/gb/app/teckel/id6746805799)
+[<img width="135" height="45" alt="GetItOnGooglePlay_Badge_Web_color_English" src="https://github.com/user-attachments/assets/9f9b8443-d759-41c1-9fce-399dc690b439" />](https://play.google.com/store/apps/details?id=io.teckel.app)
+
+### Next generate an API key using the teckel App.
 
 Do the following:
 
-1. Install the teckel App and create (or import) an Ethereum Account.
+1. Navigate to the Accounts page by tapping on the wallet icon in the upper right corner of the App home screen. Access the API Key Manager for the created or imported Ethereum Account by tapping “Manage API Key” on the Accounts page.
 
-2. Navigate to the Accounts page by tapping on the wallet icon in the upper right corner of the App home screen. Access the API Key Manager for the created or imported Ethereum Account by tapping “Manage API Key” on the Accounts page.
+2. Use the API key when making calls to the endpoints. All the available endpoints are available via the teckel App, incorporating the actual API key for the given Ethereum Account.
 
-3. Use the API key when making calls to the endpoints. All the available endpoints are available via the teckel App, incorporating the actual API key for the given Ethereum Account.
-
-4. For illustrative purposes, we will use the following fake key d1e12345-c234-45a6-9b76-1234567891ff in the examples presented below. You would substitute your actual API key in place of this fake key.
+3. For illustrative purposes, we will use the following fake key d1e12345-c234-45a6-9b76-1234567891ff in the examples presented below. You would substitute your actual API key in place of this fake key.
 
 ### Next, decide if you are using the MCP servers or RESTful (API) to access the tools.
 
