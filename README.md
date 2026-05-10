@@ -15,6 +15,7 @@ _“What transactions have been processed in the latest block on the mainnet and
 
 ### First download and install the teckel App.
 [<img width="120" height="40" alt="Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917" src="https://github.com/user-attachments/assets/ecbe6c7a-02c9-4212-b2ab-58dd90c91bca" />](https://apps.apple.com/gb/app/teckel/id6746805799)
+
 [<img width="135" height="45" alt="GetItOnGooglePlay_Badge_Web_color_English" src="https://github.com/user-attachments/assets/9f9b8443-d759-41c1-9fce-399dc690b439" />](https://play.google.com/store/apps/details?id=io.teckel.app)
 
 ### Next generate an API key using the teckel App.
